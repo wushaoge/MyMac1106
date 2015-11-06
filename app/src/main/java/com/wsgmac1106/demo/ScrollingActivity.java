@@ -29,6 +29,7 @@ public class ScrollingActivity extends AppCompatActivity {
         });
     }
 
+    //直接点击comment 不行吗
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
