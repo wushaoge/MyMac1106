@@ -23,7 +23,7 @@ public class ScrollingActivity extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "伍少革lalalal必须这样提交?", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "伍少革lalalal必须这样提交?阿勒啦", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
         });
