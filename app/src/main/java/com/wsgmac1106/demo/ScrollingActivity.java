@@ -29,7 +29,7 @@ public class ScrollingActivity extends AppCompatActivity {
         });
     }
 
-    //直接点击comment 不行吗
+    //commit提交点事本地库   commit and push是与github远程交互  mlgb默认远程啊 郁闷
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
